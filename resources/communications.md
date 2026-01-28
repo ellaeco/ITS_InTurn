@@ -4,8 +4,6 @@
 
 ---
 
-# Communications
-
 Useful links included where applicable for schedules, passes, maps, and resources.
 
 ---
