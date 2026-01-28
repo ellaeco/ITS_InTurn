@@ -1,10 +1,7 @@
-# Communications
+# The Internship Lead Team
 **[Home](../phase-0/week-1/README.md)** 
 
-
 ---
-
-# The Lead Team
 
 # The Internship Lead Team
 
