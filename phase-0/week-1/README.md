@@ -20,6 +20,7 @@ ___
 
 - Cognitive bias
 - [Doing a good job!](https://medium.com/redsquirrel-tech/on-doing-a-good-job-b91a1e5ffac0)
+- [Git Will Finally Make Sense After This](https://www.youtube.com/watch?v=Ala6PHlYjmw&t=584s)
 
 ### ASSIGNMENTS: 
 
