@@ -10,14 +10,14 @@ To qualify to be an ITS Interm, you: must be a student currently enrolled in a U
 *Resumes should be concise, and quality or quantity! Make sure to be specific about your achievements or past roles. Don't just lust your title but what you did to earn that title. 
 *You can use your resume to show off your skills. 
 *List your skills as well, it is important to let the interviewers know what specific things you are good at, but also make sure that they will help you in the position you are applying for. 
-##For your cover letter: 
+###For your cover letter: 
 *Tell them how you found out about the ITS program. It is important to let your interviewers know if you have connections or if you did your research on the program. 
 *Include what you want to learn from the ITS. Internships are all about learning and developing new skills. Knowing what you want out of an internship can go a long way. 
 *Explain why you want this position. Potential interns must have a strong desire to be a part of this program. IF you express passion for this internship and the role that you are applyinf for, you increase your chances of getting accepted into the program. 
 *Explain why you would be a good fit. It is not enough to simply want a position with the ITS, you need to be qualified for the role. 
 *Explain in your cover letter why you would perform wwill with the ITS and what makes you a good fit for the program. 
 *Show enthusiasm in your cover letter. Passion is very important, showing your personality while staying professional in your cover letter will give your application life. 
-##For the interview:
+####For the interview:
 *Do your research on the ITS beforehand. Let your internviewers know that you have ample knowledge on the program and know the scope of your role. Being prepared goes a long way! 
 *Have confidence in your acheivements. A good intern is secure in their position and their skills. Make sure you not only list your accomplishments, but are also proud of them. 
 *Ask questions in your interview. Come prepared with questions to ask your interviewers about the program. Great questions will be about the specific role or department you are interviewing with. 
@@ -28,7 +28,7 @@ To qualify to be an ITS Interm, you: must be a student currently enrolled in a U
 *For your interview, show your thought process. When answering questions, make sure you elaborate on how you would approach a situation or problem in your internship. 
 *Show off your skills and strengths, even in hypothetical situations. 
 *Finally, be honest. If you don't know something or struggle answering a question, it is better to be honest with your interviewers. It isn't a fault to not know something or if you have more to learn. Good interns and good employees are eager to learn more. 
-##Here is what other interns say about the application process: 
+#####Here is what other interns say about the application process: 
 *“At least with my department, you do not need to have the strongest skills starting off. What my interviewer was looking for what someone who is passionate about their work and shows a willingness to grow and learn the necessary skills for the job.” - Nathan Rao, Developer with ITS Information Assurance 
 *“Show your curiosity and desire to learn and grow through this internship, don't come off as someone who already knows everything.”- Syeda Shahriah, Digital UX Team, UX Intern
 *“Study the website and the position you're interviewing for, know as much information about the program and the technical space you're working in. Practice some questions, be confident, and be personable in the interview.”- Andrew Stoneman, LSA Technology Services - Software Engineer & Web Developer
