@@ -14,11 +14,6 @@ Supports ITS Staff and university operations so ITS can function effectively.
 * **Marketing and Communications:** Handles communications, branding, marketing, and public affairs.
 * **Organizational Development:** Focuses on staff development, training, and change management.
 
-**Interns:**
-
-* ITS Administration and Operations: 1 intern
-* ITS Marketing and Communications: 3 interns
-
 ---
 
 ## Advanced Research Computing (ARC)
@@ -50,10 +45,6 @@ Provides reporting, analytics, data integration, and business intelligence servi
 * **Data Integration & Delivery:** Maintains enterprise data warehouse and ETL systems.
 * **API Directory:** Provides APIs for institutional data access.
 
-**Interns:**
-
-* ITS CIO Privacy and Faculty Affairs: 1 intern
-
 ---
 
 ## Enterprise Application Services (EAS)
@@ -72,12 +63,6 @@ Manages enterprise software systems that support university operations.
 * **Performance Support:** Training, communications, and documentation for systems.
 * **Research Administration Systems (eResearch):** Research proposal, compliance, and award management.
 * **Student Administration (SA):** Enrollment, curriculum, financial aid, and student systems.
-
-**Interns:**
-
-* ITS Enterprise Applications Services: 5 interns
-* ITS eResearch: 1 intern
-
 ---
 
 ## Information Assurance (IA)
@@ -93,11 +78,6 @@ Responsible for cybersecurity and risk management across the university.
 * **Risk Assessment:** Conducts security assessments and risk analysis.
 * **University-wide Education:** Security awareness training.
 * **Vulnerability Management:** Penetration testing and security scanning.
-
-**Interns:**
-
-* ITS Information Assurance: 4 interns
-
 ---
 
 ## Infrastructure
@@ -116,11 +96,6 @@ Builds and maintains campus networking and telecommunications systems.
 * **Service Order:** Designs and installs infrastructure systems.
 * **Telephone Systems:** University phone services.
 * **Television & Streaming:** Live content and entertainment systems.
-
-**Interns:**
-
-* ITS Infrastructure: 17 interns
-
 ---
 
 ## Support Services & Emerging Technologies
@@ -137,12 +112,6 @@ Provides campus IT support and explores new technologies.
 * **Service Support:** Operational support for ITS services.
 * **Customer Advocacy Management:** Improves user experience and issue resolution.
 * **Campus Tech:** Localized technical support across campuses.
-
-**Interns:**
-
-* ITS Support Services: 7 interns
-* ITS Identity and Access Management: 1 intern
-
 ---
 
 ## System Operations
@@ -155,11 +124,6 @@ Provides core computing and hosting infrastructure services.
 * **Database Services:** Enterprise and managed database support.
 * **Storage Services:** Secure data storage infrastructure.
 * **Web Hosting Services:** Website and application hosting.
-
-**Interns:**
-
-* ITS System Operations: 1 intern
-
 ---
 
 ## Teaching & Learning (T&L)
@@ -172,11 +136,6 @@ Supports educational technology and academic systems.
 * **Instructional Support:** Workshops, consulting, and teaching resources.
 * **Learning Analytics & Data Services:** Learning analytics and education research tools.
 * **Learning Management:** Manages Canvas and integrated learning apps.
-
-**Interns:**
-
-* ITS Teaching and Learning: 1 intern
-
 ---
 
 ## Office of the VP for Information Technology & CIO
@@ -188,19 +147,5 @@ Provides leadership, governance, strategy, and oversight for ITS.
 * **Privacy & Faculty Affairs:** Privacy coordination and faculty-related initiatives.
 * **Project Management Office (PMO):** Oversees IT project management and service operations.
 * **Strategy & Planning:** IT governance, data governance, enterprise architecture, long-term IT strategy, and Michigan IT program support.
-
-**Interns:**
-
-* ITS CIO Privacy and Faculty Affairs: 1 intern
-
 ---
 
-## Departments with Interns 2026 (Need More Info)
-
-* **Dearborn IT:** 2 interns
-* **LSA Technology Services:** 9 interns
-* **Michigan Medicine:** 4 interns
-* **Ross School of Business ITS:** 1 intern
-* **Shared Services Center:** 3 interns
-
-> **Total: 63 interns in 2026**
