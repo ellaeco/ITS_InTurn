@@ -53,7 +53,7 @@ Professional development retreats will be from 9:00-11:00 AM on Tuesdays and Thu
 Professional development sessions are always held in person and will not be recorded.
 
 ## Is parking covered for interns?
-Interns are responsible for their own parking and transportation to professional development retreats. We will be at the Central Campus Classroom Building for most professional development retreats, and there is plenty of nearby parking available. You may also opt to take the bus on campus. Parking at Arbor Lakes is free, if that is your assigned or preferred office space. If you will be reporting to an office location, discuss with your supervisor what parking options are available to you. For information, see (https://github.com/ellaeco/ITS_InTurn/blob/main/resources/transportation.md "this page").
+Interns are responsible for their own parking and transportation to professional development retreats. We will be at the Central Campus Classroom Building for most professional development retreats, and there is plenty of nearby parking available. You may also opt to take the bus on campus. Parking at Arbor Lakes is free, if that is your assigned or preferred office space. If you will be reporting to an office location, discuss with your supervisor what parking options are available to you. For information, see [this page](https://github.com/ellaeco/ITS_InTurn/blob/main/resources/transportation.md).
 
 ## Orientation
 Please provide more details about orientation.
