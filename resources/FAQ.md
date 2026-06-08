@@ -15,6 +15,9 @@ A cohort project is an experiential project that supplements your primary depart
 
 You will meet project sponsors at orientation. At that point, you can choose a project that interests you, and we will match interns to projects. Participation in a cohort project extends beyond your core job responsibilities, giving you the opportunity to enhance your skill sets, explore new areas, and collaborate with your peers.
 
+## What departments could I be place in?
+There are many different departments that host an ITS Internship Program intern. For a list of some ITS departments that might host an intern, see [this page](https://github.com/ellaeco/ITS_InTurn/blob/main/resources/ITS%20departments.md).
+
 ## What is the work schedule like? Are there set days that we have to be in-person?
 You are expected to work 40 hours per week from Monday to Friday unless you are scheduled to be out of the office or have been approved by your supervisor and the internship lead team to take a class during the summer. This schedule includes mandatory on-site professional development sessions every Tuesday and Thursday from 9:00 AM - 11:00 AM. Don’t forget you should set aside 4-6 hours per week for cohort projects.
 
