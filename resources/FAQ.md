@@ -1,3 +1,5 @@
+# Frequently Asked Question
+
 Is there a dress code for on-site work?
 Most of ITS follows “business casual” for in-person programming. Once you begin working, observe what others wear to gauge the appropriate attire. For events like a tour of a local business or our Intern Showcase at the end of the program, you should opt for business professional.
 
