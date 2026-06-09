@@ -1,6 +1,6 @@
 # Contact Sheet
 
-> Get to know who works for and runs ITS, and record their contact information and the ways they can help a possible intern.
+> Effective communication is key to a successful internship at ITS. This guide outlines the primary channels of communication, the specific roles, and who you should engage for specific types of support. Get to know who works for and runs ITS, and record their contact information and the ways they can help a possible intern.
 
 ---
 
