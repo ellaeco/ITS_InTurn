@@ -10,8 +10,8 @@ If you are looking for summer housing in Ann Arbor, there are a few places to lo
 ## Transit
 With your yellow MCard, you receive unlimited free access to TheRide buses, which services the greater Ann Arbor-Ypsilanti area. Simply swipe your MCard once boarding the bus and you’re good to go.
 ### Resources for navigating transit
-* TheRide: Track your bus, plan your trip, view routes, and stay up to date on alerts.
-* Rider Guide: Browse additional resources on transit etiquette and trip planning.
+* [TheRide](https://www.theride.org/): Track your bus, plan your trip, view routes, and stay up to date on alerts.
+* [Rider Guide](https://ltp.umich.edu/campus-transit/rider-guide/): Browse additional resources on transit etiquette and trip planning.
 ## What interns are saying about housing and transit
 “Prepare way ahead of time when students and sub-leasing their apartments. Also, think about parking; get a place with parking so you don't have to pay for on-campus parking.” - Syeda Shahriah, Digital UX Team, UX Intern
 
