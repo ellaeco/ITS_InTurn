@@ -11,6 +11,7 @@ Once the time comes to open applications for the internship, the website for acc
 * School attended by the applicant and year
 * Eligibility to work in the United States/Michigan
 * How did the applicant hear about the position
+
 The application should also have a place for the applicant to submit their resume and cover letter. The applicant should be able to submit it as a PDF or some kind of other separate document.
 After the application deadlines close, one or more people should be assigned to review the applications and decide which applicants are qualified enough for an interview. These should be people familiar with the internship and its expectations of the interns. The reviewer will be reading the cover letter, the resume, looking at the applicant’s answers to the application’s questions, and determining if they would be a good fit for the internship. After a substantial number of applicants have been selected, it is time to start preparing for the interview process.
 # Interviews 
