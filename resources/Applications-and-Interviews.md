@@ -22,4 +22,5 @@ Once all of the applicants have selected a timeslot, make sure that that time wo
 * Tell us about a time you had to adapt to a significant change at school or work and how you handled that situation.
 * How do you prioritize your workload when dealing with multiple assignments?
 * What are some of your skills you think will help you in this role?
+
 Make sure the interviewers are taking notes while speaking with the candidates. After all of the interviews are conducted, have a conversation with all of the supervisors that were present during the interviews and determine which of the candidates would be best suited for the internship. Once the best of the candidates are selected, arrange for someone to call them and let them know they have been accepted into the program. Then send all of the interns and email about the next steps to getting started with the internship program.
