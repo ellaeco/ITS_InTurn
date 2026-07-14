@@ -204,7 +204,15 @@ PM Coaches Do NOT:
 
 * Make project decisions
 
-## Make Table for project timeline
+## Project Timeline
+
+| Phase     | Weeks | Activities|
+| --------- | ----- | --------- |
+| Initiate  | Weeks 1-3    | Sponsor presentations, team formation |
+| Plan      | Week 4 | Break work into tasks, assign responsibilities, build project schedule |
+| Execute   | Weeks 5-12    | Complete project work, hold weekly meetings, submit status reports, manage risks |
+| Close out | Week 13 | Final documentation, project turnover, sponsor approval |
+| Internship showcase | Week 14 | Final Presentations and demonstrations | 
 
 ## Communication Expectations
 
@@ -258,8 +266,9 @@ Projects should escalate concerns early when experiencing:
 
 * Scope concerns
 
-## Add Helpful Links
 * Scheduling challenges
+
+## Helpful Links
 
 ## Add Resources and Templates
 
